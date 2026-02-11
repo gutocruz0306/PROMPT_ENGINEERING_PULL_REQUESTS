@@ -1,15 +1,16 @@
 # Exercício – Prompt Engineering para Análise de Pull Requests IaC
 
 **Nome:** José Augusto Gomes da Cruz
+
 **RA:** 1701752
 
 
 # 1) Promps desenvolvidos
 
-|       Versão                |             Foco                  | Evolução clara                           |
-| **v1 – baseline**           | Prompt simples, linguagem natural | Entendimento do problema                 |
-| **v2 – structured**         | Estrutura, campos explícitos      | Reduz ambiguidade, melhora consistência  |
-| **v3 – schema + segurança** | Output determinístico + anti-injection | Uso profissional e produção         |
+|       Versão                |             Foco                       | Evolução clara                           |
+| **v1 – baseline**           | Prompt simples, linguagem natural      | Entendimento do problema                 |
+| **v2 – structured**         | Estrutura, campos explícitos           | Reduz ambiguidade, melhora consistência  |
+| **v3 – schema + segurança** | Output determinístico + anti-injection | Uso profissional e produção              |
 
 # 2) Conteúdo dos prompts
 
